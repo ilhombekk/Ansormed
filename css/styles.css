@@ -1,0 +1,234 @@
+.site-header {
+    background-color: #fff;
+}
+
+.sitenav-link {
+ font-family: Open Sans;
+font-weight: 700;
+font-size: 14px;
+line-height: 150%;
+letter-spacing: 2px;
+text-transform: uppercase;
+text-decoration: none;
+color: #000;
+
+}
+
+.main-link {
+text-decoration: none;
+ width: 189;
+height: 47;
+top: 1950px;
+left: 626px;
+border-radius: 8px;
+border-width: 2px;
+padding-top: 12px;
+padding-right: 24px;
+padding-bottom: 12px;
+padding-left: 24px;
+background: rgba(222, 46, 84, 1);
+color: #fff;
+border: 2px solid rgba(222, 46, 84, 1)
+}
+
+.hero {
+background: rgba(14, 180, 193, 1);
+color: rgba(255, 255, 255, 1);
+
+}
+
+.hero-content {
+width: 500;
+height: 293;
+top: 218px;
+left: 170px;
+border-radius: 8px;    
+}
+
+.hero-img {
+    width: 423;
+    height: 504;
+    top: 127px;
+    left: 847px;    
+}
+
+.hero-h1 {
+width: 500;
+height: 86;
+top: 218px;
+left: 170px;
+font-family: Open Sans Condensed;
+font-weight: 700;
+font-size: 36px;
+line-height: 120%;
+letter-spacing: 0px;
+}
+
+.hero-p {
+ width: 440;
+height: 108;
+top: 320px;
+left: 170px;
+font-family: Open Sans;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+letter-spacing: 0px;
+}
+
+.services-bg {
+width: 1440;
+height: 1486;
+top: 631px;
+background: rgba(255, 255, 255, 1);
+
+}
+ 
+.services-heading {
+width: 133;
+height: 43;
+top: 751px;
+left: 653px;
+font-family: Open Sans Condensed;
+font-weight: 700;
+font-size: 36px;
+line-height: 120%;
+letter-spacing: 0px;
+
+}
+
+.services-list {
+width: 864;
+height: 1040;
+top: 850px;
+left: 288px;
+gap: 80px;
+
+}
+
+.Frame2 {
+width: 864;
+height: 200;
+gap: 64px;
+
+}
+.Frame3 {
+    width: 864;
+    height: 200;
+    gap: 64px;
+     
+}
+
+.frame4 {
+width: 864;
+height: 200;
+gap: 64px;
+
+}
+
+.frame5 {
+width: 864;
+height: 200;
+gap: 64px;
+
+}
+
+.Frame1 {
+width: 600;
+height: 149;
+gap: 24px;
+
+}
+
+.Rectangle1 {
+display: flex;
+width: 1440px;
+height: 253px;
+top: 2117px;
+left: 1px;
+background: rgba(14, 180, 193, 1);
+color: #fff;
+
+}
+.content {
+width: 365px;
+height: 43px;
+top: 2181px;
+left: 538px;
+font-family: "Open Sans Condensed", sans-serif;
+font-weight: 700;
+font-size: 36px;
+line-height: 120%;
+letter-spacing: 0px;
+}
+
+.frame6 {
+display: block;
+margin-top: 10px;
+width: 194px;
+height: 42px;
+top: 2264px;
+left: 497px;
+border-radius: 8px;
+border-width: 2px;
+padding-top: 12px;
+padding-right: 24px;
+padding-bottom: 12px;
+padding-left: 24px;
+color: #fff;
+border: 2px solid rgba(255, 255, 255, 1)
+}
+
+.frame7 {
+display: block;
+margin-top: 10px;
+width: 214px;
+height: 42px;
+top: 2264px;
+left: 731px;
+border-radius: 8px;
+border-width: 2px;
+padding-top: 12px;
+padding-right: 24px;
+padding-bottom: 12px;
+padding-left: 24px;
+color: #fff;
+border: 2px solid rgba(255, 255, 255, 1)
+} 
+
+.site-footer {
+width: 1440px;
+height: 97.93565368652344px;
+top: 2370px;
+padding: 24px;
+background: rgba(34, 34, 34, 1);
+
+}
+
+.site-footer-container {
+width: 1100px;
+height: 49.93564987182617px;
+justify-content: space-between;
+
+}
+
+.sitenav {
+width: 497px;
+height: 21px;
+gap: 32px;
+color: #fff;
+
+}
+
+.contentnav {
+width: 96px;
+height: 21px;
+font-family: Open Sans;
+font-weight: 700;
+font-size: 14px;
+line-height: 150%;
+letter-spacing: 2px;
+text-transform: uppercase;
+color: #fff;
+
+}
