@@ -197,26 +197,39 @@ border: 2px solid rgba(255, 255, 255, 1)
 } 
 
 .site-footer {
-width: 1440px;
-height: 97.93565368652344px;
+width: 100%;
+height: auto;
 top: 2370px;
 padding: 24px;
 background: rgba(34, 34, 34, 1);
+min-height: 200px;
+overflow: hidden;
+
 
 }
 
 .site-footer-container {
+display: flex;
+flex-wrap: wrap;
+align-items: center;
+justify-content: space-between;
 width: 1100px;
 height: 49.93564987182617px;
-justify-content: space-between;
+
 
 }
 
 .sitenav {
-width: 497px;
-height: 21px;
-gap: 32px;
+width: 100%;
+max-width: 1100px;
+height: auto;
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+align-items: center;
 color: #fff;
+overflow: hidden;
+gap: 20px;
 
 }
 
@@ -230,5 +243,5 @@ line-height: 150%;
 letter-spacing: 2px;
 text-transform: uppercase;
 color: #fff;
-
+padding: 0 10px;
 }
