@@ -4,7 +4,7 @@
 
 ul {
     list-style: none;
-
+    text-decoration: none;
 }
 
 .sitenav-link {
@@ -258,4 +258,8 @@ color: #fff;
 padding: 0 10px;
 list-style: none;
 text-decoration: none;
+}
+
+.button-link a {
+    text-decoration: none;
 }
