@@ -1,10 +1,17 @@
 .site-header {
-    background-color: #fff;
+background-color: #fff;
+display: flex;
+align-items: center;
+justify-content: space-between;
 }
 
 ul {
     list-style: none;
     text-decoration: none;
+}
+
+.bosh-sahifa {
+    display: flex;
 }
 
 .sitenav-link {
@@ -17,13 +24,14 @@ letter-spacing: 2px;
 text-transform: uppercase;
 text-decoration: none;
 color: #000;
+align-items: center;
 
 }
 
 .main-link {
 text-decoration: none;
- width: 189;
-height: 47;
+display: flex;
+justify-content: end;
 top: 1950px;
 left: 626px;
 border-radius: 8px;
@@ -35,7 +43,7 @@ padding-left: 24px;
 background: rgba(222, 46, 84, 1);
 color: #fff;
 border: 2px solid rgba(222, 46, 84, 1)
-list-style: none;
+
 }
 
 .hero {
@@ -50,6 +58,10 @@ height: 293;
 top: 218px;
 left: 170px;
 border-radius: 8px;    
+display: inline-block;
+padding: 10px;
+justify-content: space-between;
+
 }
 
 .hero-img {
@@ -242,6 +254,7 @@ color: #fff;
 overflow: hidden;
 gap: 20px;
 list-style: none;
+
 
 }
 
