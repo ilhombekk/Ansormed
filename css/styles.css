@@ -216,3 +216,42 @@ align-items: center;
     justify-content: space-between;
     align-items: center;
 }
+
+.cta {
+    padding-top: 64px;
+    padding-bottom: 64px;
+    background-color: #0EB4C1;
+    color: #fff;
+}
+
+.cta-heading {
+    margin-top: 0;
+    margin-bottom: 40px;
+    font-size: 36px;
+    line-height: 1.2;
+    font-family: "open sans condensed","open sans","arial","sans serif";
+    text-align: center;
+
+}
+
+.cta-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cta-links-item:not(:last-child) {
+    margin-right: 40px;
+}
+
+.main-link-outline {
+    border-color: #fff;
+    background-color: transparent;
+    color: #fff;
+}
+
+.main-link-outline:hover {
+    border-color: transparent;
+    background-color: #de2e54;
+    color: #fff;
+}
